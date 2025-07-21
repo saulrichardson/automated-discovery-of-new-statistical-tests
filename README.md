@@ -250,6 +250,3 @@ stat‑test‑discovery/
 5. Stable‑Baselines3 docs, RLlib docs, Lean `mathlib4`.
 
 ---
-
-*This document is the **single source of truth** for the Statistical‑Test‑Discovery project.  Updates and issue references should modify this canvas rather than duplicating content elsewhere.*
-
