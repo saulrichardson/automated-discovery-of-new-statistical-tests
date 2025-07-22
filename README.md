@@ -212,21 +212,6 @@ stat‑test‑discovery/
 
 ---
 
-<a name="roadmap"></a>
-
-## 10. Road‑Map & Open Questions
-
-| Milestone                | ETA     | Owner                |
-| ------------------------ | ------- | -------------------- |
-| Full ADF‑like demo       | Q3 2025 | core team            |
-| Graph two‑sample test    | Q4 2025 | community            |
-| Privacy‑preserving tests | 2026    | TBD                  |
-| Isabelle backend         | 2026    | external contributor |
-
-*Open Issues*: heavy‑tail robustness, sequential tests, formalising bootstrap for mixing processes.
-
----
-
 <a name="glossary"></a>
 
 ## 11. Glossary
